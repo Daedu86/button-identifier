@@ -1,0 +1,22 @@
+{
+  "name": "button-identifier",
+  "version": "1.0.0",
+  "description": "A project to identify all buttons from a webpage.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "buttons",
+    "web",
+    "identifier"
+  ],
+  "author": "Dan RB",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "jest": "^29.0.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
