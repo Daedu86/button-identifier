@@ -1,24 +1,24 @@
-# Button Identifier Project ![Badge](https://img.shields.io/badge/status-active-brightgreen)
-
-This project is designed to **identify all button elements on a webpage** and **highlight `div` elements in blue**.  
+Button Identifier Project
+This project is designed to identify all button elements on a webpage and highlight div elements in blue.
 It provides a simple utility function that scans the DOM and allows easy visualization.
 
----
+Table of Contents
+Installation
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshot](#screenshot)
-- [Contributing](#contributing)
-- [License](#license)
+Usage
 
----
+Screenshot
 
-## Installation
+Contributing
 
+License
+
+Installation
 To get started with the Button Identifier project, clone the repository and install the dependencies:
 
-```bash
+bash
+Copiar
+Editar
 git clone <repository-url>
 cd button-identifier
 npm install
@@ -48,28 +48,4 @@ Please open an issue or submit a pull request for any improvements, ideas, or bu
 License
 This project is licensed under the MIT License.
 See the LICENSE file for more details.
-
-yaml
-Copiar
-Editar
-
----
-
-✅ You can now just paste it into your `README.md` file.  
-It will look **really professional** on GitHub!
-
----
-
-Would you also want a second version with **even more badges** like:
-- License badge
-- Made with ❤️ badge
-- JavaScript badge
-
-? 🚀  
-It makes the project look even cooler and serious! Let me know!
-
-
-
-
-
 
